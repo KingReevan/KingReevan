@@ -209,7 +209,7 @@ And yes, there are quite a few of them.
 
 <div align="center">
 
-![Contribution Snake](https://raw.githubusercontent.com/KingReevan/KingReevan/output/github-contribution-grid-snake.svg)
+![Contribution Snake](https://raw.githubusercontent.com/KingReevan/KingReevan/gh-pages/github-contribution-grid-snake.svg)
 
 </div>
 
